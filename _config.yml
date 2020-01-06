@@ -11,16 +11,16 @@ exclude:
 
 # Site settings
 title: seonho.github.io
-subtitle: "seonho.github.io software engineer blog"
+subtitle: "seon990.github.io software engineer blog"
 email: seon99973@gmail.com
 name: SEONHO CHOI
 description: >
-  seonho.github.io software engineer blog.
+  seon990.github.io software engineer blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://seonho.github.io" # the base hostname & protocol for your site
+url: "https://seon990.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
